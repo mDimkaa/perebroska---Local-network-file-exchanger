@@ -1,2 +1,2 @@
-# perebroska---Local-network-file-exchanger
-idk lol
+Perebroska - a file exchanger operating over a local network, running on a host computer
+
